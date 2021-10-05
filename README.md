@@ -14,3 +14,4 @@
 
 ## 2. 화면 예시
 
+![제목 없음-8](https://user-images.githubusercontent.com/14077108/135580984-117ae43f-0918-454a-8f1c-1ca8706792e7.png)
